@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298395572325",
+    "project_id": "desafio02-cc4d0",
+    "storage_bucket": "desafio02-cc4d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298395572325:android:ece57f3680ace8ccecce8c",
+        "android_client_info": {
+          "package_name": "br.unisanta.desafio02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEm2B0Rd4TMiEWhXhOSw2jezoHiu2qo7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
